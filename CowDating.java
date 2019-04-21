@@ -1,4 +1,6 @@
 /*
+Solution for February 2019 Platinum Contest (Problem #1)
+
 roses are red
 memes are neat
 all my test cases time out
@@ -8,7 +10,7 @@ import java.util.*;
 import java.io.*;
 import java.math.*;
 
-   public class CowDate3
+   public class CowDating
    {
       public static void main(String args[]) throws Exception
       {
